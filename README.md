@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Torgeir - Front End Development student and a tech enthusiast at heart.
 
-After spending years crafting WordPress pages and exploring the depths of WooCommerce, I have found that the time is ripe to delve into the world HTML, CSS and JS. I'm not just about the front end; my proficiency extends to SQL, Mongo DB, and the versatility of bash scripting. My Linux powered home lab server is where I play around with my curiosity and dedication for all things tech and code, hosting Docker, Zigbee for smart home automation, and NodeRed to complement my JavaScript adventures.
+After spending years crafting WordPress pages and exploring the depths of WooCommerce, I have found that the time is ripe to delve into the world of HTML, CSS and JS. I'm not just about the front end; my proficiency extends to SQL, Mongo DB, and the versatility of bash scripting. My Linux powered home lab server is where I play around with my curiosity and dedication for all things tech and code, hosting Docker, Zigbee for smart home automation, and NodeRed to complement my JavaScript adventures.
 
 🛠️ **Current Projects:**
 
